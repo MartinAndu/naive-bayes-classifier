@@ -17,7 +17,7 @@
  * 
  * Domain(0.0, 2.0, 3)
  * 
- * The mininum value is 0.0 and maximum value is 2.0. The number of values between them are 3. Hence, the conversion is defined like this :
+ * The minimum value is 0.0 and maximum value is 2.0. The number of values between them are 3. Hence, the conversion is defined like this :
  * 
  * Discrete value = ((value - min) * number of values) / (max - min)
  * 
